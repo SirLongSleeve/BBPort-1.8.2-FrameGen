@@ -8,8 +8,6 @@ Source for this build (GitHub):
 Copy the contents of this folder on top of a BBPort 1.8.2 install
 (the folder that has Play Bloodborne.exe, bin\, and bbport.ini).
 
-Do not copy this onto F:\BloodborneClean unless you mean to.
-
 What this replaces
 ------------------
 - bin\bb-probe.exe          FrameGen native probe (Streamline DLSS-G / FSR 3.1 FG)
