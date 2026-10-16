@@ -1,0 +1,2 @@
+release/bin/*.exe filter=lfs diff=lfs merge=lfs -text
+release/bin/nvngx_dlss.dll filter=lfs diff=lfs merge=lfs -text
