@@ -36,4 +36,3 @@ are reaching the display. Yellow "FG idle" is expected on the title
 and menus (no G-buffer camera). White "X FPS Y ms DLSS" means FG is off.
 
 Do not mix this probe with the stock 1.8.2 17 MB bb-probe.exe.
-Leave F:\BloodborneClean untouched unless you copy onto a dedicated copy.
